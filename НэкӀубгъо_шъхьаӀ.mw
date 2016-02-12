@@ -13,7 +13,7 @@ __NOTOC__
 <span id="mp-welcometo">Шъукъеблагъ кIахэ адыгэбзэ [[Википедие|Википедием]]!</span><br>[[File:Wikipedia wordmark.svg|250px|alt=Википедия|link=]]</div>
 <div id="mp-topbannerright">
 ''[[Википедие|Википедиер]] шъхьафит бзэпчъагъэ интернет-шIэнгъуазэу щыт, хэти еIэзэн лъэкIыщт.</div>
-<div style="font-size:95%"></br> Джыдэдэм кIахэ адыгэбзэ Википедием нэкIубгъо [[Special:PrefixIndex/Wp/ady|{{PAGESINCATEGORY:Wp/ady}}]] ит.<br />
+<div style="font-size:95%"></br> Джыдэдэм кIахэ адыгэбзэ Википедием нэкIубгъо [[Special:Statistics|{{NUMBEROFARTICLES}}]] ит.<br />
 </div>
 <div style="clear: both;"></div>
 <!-- Список порталов  -->
@@ -31,10 +31,10 @@ __NOTOC__
 |}
 {| cellpadding="5" cellspacing="0" style="border-top:1px solid #ccc; text-align:center; margin-bottom: 8px; background:transparent; width:98%; border:0;"
 | style="width:10%" |
-{{Кнопка|Wp/ady/НэкIубгъо егъэжьэн|НэкIубгъо егъэжьэн|class=mw-ui-progressive}}
-{{Кнопка|Wp/ady|Егъэжьэн}}
-{{Кнопка|Wp/ady/Файл илъхьан|Файл илъхьан}}
-{{Кнопка|Wp/ady/Форум|Форум}}
+{{Кнопка|Википедие:НэкIубгъо егъэжьэн|НэкIубгъо егъэжьэн|class=mw-ui-progressive}}
+{{Кнопка|Википедие:Егъэжьэн|Егъэжьэн}}
+{{Кнопка|Википедие:Файл илъхьан|Файл илъхьан}}
+{{Кнопка|Википедие:Форум|Форум}}
 </br>
 </br>
 <inputbox>
@@ -44,7 +44,7 @@ __NOTOC__
  preload=Template:Standard content for new page
  editintro=Template:Instructions
  default=
- buttonlabel=НэкIубгъо егъэжьэн/Создать статью/Create an article
+ buttonlabel=НэкIубгъо егъэжьэн/Создать статью
  break=no
 </inputbox>
 |}
